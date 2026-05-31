@@ -4,7 +4,11 @@ Research project exploring modern offensive tradecraft used in adversary emulati
 
 This repository documents the architectural evolution of a Windows execution framework developed to better understand modern execution, evasion, and runtime management concepts commonly encountered during red team engagements and adversary simulation exercises.
 
+The project was created to bridge the gap between
+offensive training environments and real-world execution tradecraft.
+
 Implementation details have been intentionally omitted. The repository focuses on architecture, design decisions, and execution flow rather than operational deployment.
+
 
 ## Architecture Evolution
 
@@ -30,4 +34,5 @@ Implementation details have been intentionally omitted. The repository focuses o
 
 The purpose of this project is to study execution tradecraft, operating system internals, and defensive visibility considerations from an offensive security perspective.
 
-This repository does not contain operational payloads, deployment tooling, or weaponized implementations.
+This repository intentionally excludes operational payloads,
+deployment tooling, and weaponizable implementation details.
