@@ -5,7 +5,7 @@
 > This repository contains research documents only. Source code is maintained separately in a private repository.
 # Custom Stage-0 Loader Research Project
 
-> 현대 EDR 환경에서의 Stage-0 Loader 아키텍처, 실행 문맥(Execution Context), 그리고 관측 가능 정보(Observable Artifacts)에 대한 개인 연구 프로젝트입니다.
+> 현재 연구는 V6 아키텍처를 기준으로 Stage-0 Loader 계층까지 진행되었으며, 본 저장소는 해당 연구 결과와 설계 과정을 문서화합니다.
 
 ## Why This Project?
 
@@ -67,7 +67,7 @@ OSCP 준비 및 실전 침투 테스트를 수행하면서 공개 도구와 프�
 ---
 # Custom Stage-0 Loader Research Project
 
-> Personal research project focused on Stage-0 loader architecture, execution context, and observable artifacts in modern EDR-monitored environments.
+> The research currently concludes at the Stage-0 Loader layer (V6), and this repository documents the resulting architecture, implementation journey, and lessons learned.
 
 ## Why This Project?
 
